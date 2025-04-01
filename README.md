@@ -47,7 +47,8 @@ AutoElegance is a web-based platform designed to facilitate peer-to-peer electri
 - **Payment Processing**: Razorpay API
 - **Database**: MySQL
 - **Hosting**: AWS EC2
-The site's frontend was entirely designed by @JUSTCOPIED and the backend and hosting was done by @vygrr
+
+This site's frontend was entirely designed by @JUSTCOPIED and the backend and hosting was implemented by @vygrr
 
 ## Project History
 This project was initially developed as a college project during my 4th semester and was later enhanced and represented in my 7th semester.

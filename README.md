@@ -1,3 +1,56 @@
-This is a project made by a group of Second year students of Pillai College of Engineering, New Panvel the project is about a electric car rental website . 
-this have a landing page ,login , sign-in , about , home-page , market , add-cars 
-the user will have to make an account to rent car from platform also can add his cars to make money out of them 
+AutoElegance - Electric Vehicle Rental Platform
+Project Overview
+AutoElegance is a web-based platform designed to facilitate peer-to-peer electric vehicle rentals. Built with PHP, MySQL, and modern frontend technologies, this application allows users to list their electric vehicles for rent and browse available EVs from other users. The platform includes features for user authentication, vehicle management, a marketplace interface, and secure payment processing.
+Features
+User Authentication
+
+Secure login and registration system
+Session management to protect routes
+User profiles with personalized dashboards
+
+Vehicle Management
+
+List personal electric vehicles for rent
+Upload vehicle images and detailed specifications
+Manage vehicle availability
+Remove listed vehicles when needed
+
+Marketplace
+
+Browse available electric vehicles from other users
+Filter cars by city location
+Sort vehicles by price, driving range, and capacity
+Detailed view of vehicle specifications and owner information
+
+Rental System
+
+On-demand vehicle rental with flexible duration
+Real-time price calculation based on rental period
+Razorpay payment gateway integration for secure transactions
+Automatic availability tracking
+
+User Dashboard
+
+View personal rental history with status tracking
+Track ongoing rentals with time remaining
+Manage vehicles listed for rent
+Success notifications for transactions
+
+Technical Features
+
+Responsive design for various screen sizes
+Form validation and error handling
+Secure database transactions
+Image upload and storage capabilities
+Animation effects for improved user experience
+
+Technologies Used
+
+Backend: PHP, MySQL
+Frontend: HTML, CSS, JavaScript
+Payment Processing: Razorpay API
+UI Components: Font Awesome icons
+Database: MySQL
+
+Project History
+This project was initially developed as a college project during my 4th semester and was later enhanced and represented in my 7th semester. The application has evolved from a simple concept to a fully functional platform with secure payment processing and an intuitive user interface.

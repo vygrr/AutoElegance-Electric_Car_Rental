@@ -42,14 +42,15 @@ AutoElegance is a web-based platform designed to facilitate peer-to-peer electri
 - Animation effects for improved user experience
 
 ## Technologies Used
-- **Backend**: PHP, MySQL
+- **Backend**: PHP, MySQL 
 - **Frontend**: HTML, CSS, JavaScript
 - **Payment Processing**: Razorpay API
-- **UI Components**: Font Awesome icons
 - **Database**: MySQL
+- **Hosting**: AWS EC2
+The site's frontend was entirely designed by @JUSTCOPIED and the backend and hosting was done by @vygrr
 
 ## Project History
-This project was initially developed as a college project during my 4th semester and was later enhanced and represented in my 7th semester. The application has evolved from a simple concept to a fully functional platform with secure payment processing and an intuitive user interface.
+This project was initially developed as a college project during my 4th semester and was later enhanced and represented in my 7th semester.
 
 ## Future Improvements
 - Implement user ratings and reviews
@@ -59,4 +60,4 @@ This project was initially developed as a college project during my 4th semester
 - Enhance the admin dashboard with analytics
 
 ## Contact
-For any inquiries or suggestions, please contact dheerajdevadas.dd25@gmail.com
+For any inquiries or suggestions, please contact dheerajdevadas.dd25@gmail.com, 
